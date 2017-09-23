@@ -1,6 +1,6 @@
 # VR-FlyingPlatform
 
-A simple VR game made with Unity3D.
+A simple VR game made with Unity3D for phones.
 
 You are standing on a flying platform, and you can tap the screen to start/stop moving the platform.
 
